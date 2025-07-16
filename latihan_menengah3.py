@@ -1,6 +1,6 @@
 
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib==3.8.4
 import matplotlib.dates as mdates
 import matplotlib.ticker as ticker   
 import plotly.express as px
